@@ -1,0 +1,7 @@
+E:\Projects\ELibra\updater\updater\bin\Debug\updater.exe.config
+E:\Projects\ELibra\updater\updater\bin\Debug\updater.exe
+E:\Projects\ELibra\updater\updater\bin\Debug\updater.pdb
+E:\Projects\ELibra\updater\updater\obj\Debug\updater.csprojAssemblyReference.cache
+E:\Projects\ELibra\updater\updater\obj\Debug\updater.csproj.CoreCompileInputs.cache
+E:\Projects\ELibra\updater\updater\obj\Debug\updater.exe
+E:\Projects\ELibra\updater\updater\obj\Debug\updater.pdb

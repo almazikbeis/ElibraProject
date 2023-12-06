@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<org name="Организация">
+  <weight name="">
+	<weighing id="номер взвешивания в базе" clientId="id контрагента" clientName="имя контрагента" clientBIN="БИН контрагента" clientAddress="адрес контрагента" clientPhone="номер контрагента" clientDescription="описание контрагента" material="груз" carWeight="вес машины" brutto="брутто" dateWeight="дата взвешивания" userId="id пользователя" userName="имя пользователя" carNumber="номер автомобиля" carMark="марка автомобиля" docWeight="вес груза по документам" consignee="грузополучатель" talonNum="номер талона" point1="пункт отправки" point2="пункт назначения" factorWeight="вес с корректировкой" invNumLoading="" volume="Объеи" driver="ФИО Водителя" operationType="Тип операции" carrierid="id перевозчика" carrierName="имя перевозчика" />
+  </weight>
+</org>
+

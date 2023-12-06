@@ -1,0 +1,15 @@
+E:\Projects\ELibra\license\License\License\bin\Debug\License.exe.config
+E:\Projects\ELibra\license\License\License\bin\Debug\License.exe
+E:\Projects\ELibra\license\License\License\bin\Debug\License.pdb
+E:\Projects\ELibra\license\License\License\obj\Debug\License.csprojAssemblyReference.cache
+E:\Projects\ELibra\license\License\License\obj\Debug\License.Properties.Resources.resources
+E:\Projects\ELibra\license\License\License\obj\Debug\License.csproj.GenerateResource.cache
+E:\Projects\ELibra\license\License\License\obj\Debug\License.csproj.CoreCompileInputs.cache
+E:\Projects\ELibra\license\License\License\obj\Debug\License.exe
+E:\Projects\ELibra\license\License\License\obj\Debug\License.pdb
+E:\Projects\ELibra\license\License\License\obj\Debug\License.ChangeLicense.resources
+E:\Projects\ELibra\license\License\License\obj\Debug\License.License.resources
+E:\Projects\ELibra\license\License\License\obj\Debug\License.Setting.resources
+E:\Projects\ELibra\license\License\License\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\ELibra\license\License\License\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\ELibra\license\License\License\obj\Debug\License.csproj.CopyComplete

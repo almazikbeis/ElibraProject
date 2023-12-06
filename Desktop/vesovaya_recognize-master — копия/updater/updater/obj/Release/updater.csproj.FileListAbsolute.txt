@@ -1,0 +1,13 @@
+E:\Projects\ELibra\updater\updater\bin\Release\updater.exe.config
+E:\Projects\ELibra\updater\updater\bin\Release\updater.exe
+E:\Projects\ELibra\updater\updater\bin\Release\updater.pdb
+E:\Projects\ELibra\updater\updater\obj\Release\updater.csproj.CoreCompileInputs.cache
+E:\Projects\ELibra\updater\updater\obj\Release\updater.exe
+E:\Projects\ELibra\updater\updater\obj\Release\updater.pdb
+E:\Projects\ELibra\updater\updater\obj\Release\updater.csprojAssemblyReference.cache
+C:\Users\Mordecai\source\repos\updater\updater\bin\Release\updater.exe.config
+C:\Users\Mordecai\source\repos\updater\updater\bin\Release\updater.exe
+C:\Users\Mordecai\source\repos\updater\updater\bin\Release\updater.pdb
+C:\Users\Mordecai\source\repos\updater\updater\obj\Release\updater.csprojAssemblyReference.cache
+C:\Users\Mordecai\source\repos\updater\updater\obj\Release\updater.exe
+C:\Users\Mordecai\source\repos\updater\updater\obj\Release\updater.pdb
